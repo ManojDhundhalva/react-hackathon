@@ -22,9 +22,6 @@ function App() {
     fetchdata();
   }, []);
 
-
-
-
   return (
     <div>
       {/* <Signin />
