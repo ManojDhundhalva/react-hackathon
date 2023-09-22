@@ -26,8 +26,7 @@ function App() {
     <div>
       {/* <Signin />
       <Signup /> */}
-    </div>
-  );
+    </div>);
 }
 
 export default App;
